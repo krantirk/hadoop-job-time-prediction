@@ -68,7 +68,7 @@ If you have any doubts about topics 2 and 3 you can have more information about 
 ### 4. Change json configuration file
   You can get all these informations trough Horizon, except: public_keypair_path, private_keypair_path and private_keypair_name that only you have access.
 
-### 5. Run, baby, run!
+### 5. Run, run, run!
 
   Now should all be ready to run :heart:!
   You can run this experiment in 2 different ways:
